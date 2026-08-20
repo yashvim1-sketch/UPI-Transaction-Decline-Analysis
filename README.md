@@ -10,7 +10,7 @@ The project investigates Business Decline patterns across major UPI remitter ban
 
 ## Project Documentation
 
-[View Problem Statement →](https://app.notion.com/p/3c2b76c92aef80d4a4c7f6a4bb8e8230?source=copy_link)
+[View The Project →](https://app.notion.com/p/3c2b76c92aef80d4a4c7f6a4bb8e8230?source=copy_link)
 
 ## Dashboard
 
